@@ -1,5 +1,5 @@
 # Generate pps from imu_gps file
-Based on previous imu_gps file and pps file, generate new pps file with new imu_gps file with interpolation.
+Based on previous imu_gps file and pps file, generate new pps file with new imu_gps file by interpolation.
 
 1. Read the old imu_gps file and pps file
 2. Find the average time delay of this UAV system
